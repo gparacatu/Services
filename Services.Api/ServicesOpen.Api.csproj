@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Services.CrossCutting\Services.CrossCutting.csproj" />
+    <ProjectReference Include="..\Services.CrossCutting\ServicesOpen.CrossCutting.csproj" />
   </ItemGroup>
 
 </Project>
