@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesOpen.Domain", "Services.Domain\ServicesOpen.Domain.csproj", "{DA3B6CE5-4311-483D-8B08-860BE7DC0897}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Domain", "Services.Domain\Services.Domain.csproj", "{DA3B6CE5-4311-483D-8B08-860BE7DC0897}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesOpen.Application", "Services.Application\ServicesOpen.Application.csproj", "{60A69FA8-CE72-4D20-B018-0573ADF32418}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Application", "Services.Application\Services.Application.csproj", "{60A69FA8-CE72-4D20-B018-0573ADF32418}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesOpen.Infrastructure", "Services.Infrastructure\ServicesOpen.Infrastructure.csproj", "{3A21597D-7AC7-4064-93E5-2D680C47A6F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Infrastructure", "Services.Infrastructure\Services.Infrastructure.csproj", "{3A21597D-7AC7-4064-93E5-2D680C47A6F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesOpen.CrossCutting", "Services.CrossCutting\ServicesOpen.CrossCutting.csproj", "{469DE0F9-B321-4E0B-B8FF-9F6A56CF817E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.CrossCutting", "Services.CrossCutting\Services.CrossCutting.csproj", "{469DE0F9-B321-4E0B-B8FF-9F6A56CF817E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesOpen.Api", "Services.Api\ServicesOpen.Api.csproj", "{09B352B0-C518-4DD9-9624-4E9A51642A70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Api", "Services.Api\Services.Api.csproj", "{09B352B0-C518-4DD9-9624-4E9A51642A70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
